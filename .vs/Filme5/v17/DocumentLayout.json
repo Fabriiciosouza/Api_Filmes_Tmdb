@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fabri\\source\\repos\\Filme5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD5DE6E-C2CA-4B58-9EF0-F114558496FB}|Filme5\\Filme5.csproj|c:\\users\\fabri\\source\\repos\\filme5\\filme5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DAD5DE6E-C2CA-4B58-9EF0-F114558496FB}|Filme5\\Filme5.csproj|solutionrelative:filme5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD5DE6E-C2CA-4B58-9EF0-F114558496FB}|Filme5\\Filme5.csproj|c:\\users\\fabri\\source\\repos\\filme5\\filme5\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD5DE6E-C2CA-4B58-9EF0-F114558496FB}|Filme5\\Filme5.csproj|solutionrelative:filme5\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD5DE6E-C2CA-4B58-9EF0-F114558496FB}|Filme5\\Filme5.csproj|c:\\users\\fabri\\source\\repos\\filme5\\filme5\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD5DE6E-C2CA-4B58-9EF0-F114558496FB}|Filme5\\Filme5.csproj|solutionrelative:filme5\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD5DE6E-C2CA-4B58-9EF0-F114558496FB}|Filme5\\Filme5.csproj|c:\\users\\fabri\\source\\repos\\filme5\\filme5\\models\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD5DE6E-C2CA-4B58-9EF0-F114558496FB}|Filme5\\Filme5.csproj|solutionrelative:filme5\\models\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD5DE6E-C2CA-4B58-9EF0-F114558496FB}|Filme5\\Filme5.csproj|c:\\users\\fabri\\source\\repos\\filme5\\filme5\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD5DE6E-C2CA-4B58-9EF0-F114558496FB}|Filme5\\Filme5.csproj|solutionrelative:filme5\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD5DE6E-C2CA-4B58-9EF0-F114558496FB}|Filme5\\Filme5.csproj|c:\\users\\fabri\\source\\repos\\filme5\\filme5\\controllers\\avaliacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD5DE6E-C2CA-4B58-9EF0-F114558496FB}|Filme5\\Filme5.csproj|solutionrelative:filme5\\controllers\\avaliacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD5DE6E-C2CA-4B58-9EF0-F114558496FB}|Filme5\\Filme5.csproj|c:\\users\\fabri\\source\\repos\\filme5\\filme5\\services\\tmdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD5DE6E-C2CA-4B58-9EF0-F114558496FB}|Filme5\\Filme5.csproj|solutionrelative:filme5\\services\\tmdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD5DE6E-C2CA-4B58-9EF0-F114558496FB}|Filme5\\Filme5.csproj|c:\\users\\fabri\\source\\repos\\filme5\\filme5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD5DE6E-C2CA-4B58-9EF0-F114558496FB}|Filme5\\Filme5.csproj|solutionrelative:filme5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD5DE6E-C2CA-4B58-9EF0-F114558496FB}|Filme5\\Filme5.csproj|c:\\users\\fabri\\source\\repos\\filme5\\filme5\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD5DE6E-C2CA-4B58-9EF0-F114558496FB}|Filme5\\Filme5.csproj|solutionrelative:filme5\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD5DE6E-C2CA-4B58-9EF0-F114558496FB}|Filme5\\Filme5.csproj|c:\\users\\fabri\\source\\repos\\filme5\\filme5\\filme5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DAD5DE6E-C2CA-4B58-9EF0-F114558496FB}|Filme5\\Filme5.csproj|solutionrelative:filme5\\filme5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\fabri\\source\\repos\\Filme5\\Filme5\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Filme5\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\fabri\\source\\repos\\Filme5\\Filme5\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Filme5\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAIwF8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:33:01.017Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MongoDbSettings.cs",
+              "DocumentMoniker": "C:\\Users\\fabri\\source\\repos\\Filme5\\Filme5\\Settings\\MongoDbSettings.cs",
+              "RelativeDocumentMoniker": "Filme5\\Settings\\MongoDbSettings.cs",
+              "ToolTip": "C:\\Users\\fabri\\source\\repos\\Filme5\\Filme5\\Settings\\MongoDbSettings.cs",
+              "RelativeToolTip": "Filme5\\Settings\\MongoDbSettings.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:47:49.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AvaliacoesController.cs",
+              "DocumentMoniker": "C:\\Users\\fabri\\source\\repos\\Filme5\\Filme5\\Controllers\\AvaliacoesController.cs",
+              "RelativeDocumentMoniker": "Filme5\\Controllers\\AvaliacoesController.cs",
+              "ToolTip": "C:\\Users\\fabri\\source\\repos\\Filme5\\Filme5\\Controllers\\AvaliacoesController.cs",
+              "RelativeToolTip": "Filme5\\Controllers\\AvaliacoesController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T18:04:15.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Avaliacao.cs",
+              "DocumentMoniker": "C:\\Users\\fabri\\source\\repos\\Filme5\\Filme5\\Models\\Avaliacao.cs",
+              "RelativeDocumentMoniker": "Filme5\\Models\\Avaliacao.cs",
+              "ToolTip": "C:\\Users\\fabri\\source\\repos\\Filme5\\Filme5\\Models\\Avaliacao.cs",
+              "RelativeToolTip": "Filme5\\Models\\Avaliacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:59:05.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\fabri\\source\\repos\\Filme5\\Filme5\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Filme5\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\fabri\\source\\repos\\Filme5\\Filme5\\Models\\Movie.cs",
+              "RelativeToolTip": "Filme5\\Models\\Movie.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAiwFMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:56:53.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fabri\\source\\repos\\Filme5\\Filme5\\appsettings.json",
+              "RelativeDocumentMoniker": "Filme5\\appsettings.json",
+              "ToolTip": "C:\\Users\\fabri\\source\\repos\\Filme5\\Filme5\\appsettings.json",
+              "RelativeToolTip": "Filme5\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T21:48:00.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TmdbService.cs",
+              "DocumentMoniker": "C:\\Users\\fabri\\source\\repos\\Filme5\\Filme5\\Services\\TmdbService.cs",
+              "RelativeDocumentMoniker": "Filme5\\Services\\TmdbService.cs",
+              "ToolTip": "C:\\Users\\fabri\\source\\repos\\Filme5\\Filme5\\Services\\TmdbService.cs",
+              "RelativeToolTip": "Filme5\\Services\\TmdbService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:26:36.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fabri\\source\\repos\\Filme5\\Filme5\\Program.cs",
+              "RelativeDocumentMoniker": "Filme5\\Program.cs",
+              "ToolTip": "C:\\Users\\fabri\\source\\repos\\Filme5\\Filme5\\Program.cs",
+              "RelativeToolTip": "Filme5\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T18:00:38.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\fabri\\source\\repos\\Filme5\\Filme5\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "Filme5\\Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\fabri\\source\\repos\\Filme5\\Filme5\\Services\\MovieService.cs",
+              "RelativeToolTip": "Filme5\\Services\\MovieService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwCwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:22:53.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Filme5.csproj",
+              "DocumentMoniker": "C:\\Users\\fabri\\source\\repos\\Filme5\\Filme5\\Filme5.csproj",
+              "RelativeDocumentMoniker": "Filme5\\Filme5.csproj",
+              "ToolTip": "C:\\Users\\fabri\\source\\repos\\Filme5\\Filme5\\Filme5.csproj",
+              "RelativeToolTip": "Filme5\\Filme5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-31T21:49:43.651Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

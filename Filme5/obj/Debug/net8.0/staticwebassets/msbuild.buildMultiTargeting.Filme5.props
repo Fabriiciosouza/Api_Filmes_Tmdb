@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Filme5.props" />
+</Project>
