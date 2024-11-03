@@ -1,6 +1,6 @@
 ## API de Filmes com ASP.NET Core e TMDb
 
-🎥 ## Sobre o Projeto
+# 🎥 Sobre o Projeto
 
 A API de Filmes é uma aplicação desenvolvida para consumir dados da API TMDb e fornecer informações completas sobre filmes. Este projeto foi criado para facilitar o acesso a detalhes como sinopse, elenco, trailers, orçamento e onde assistir, armazenando os dados em um banco de dados MongoDB.
 
