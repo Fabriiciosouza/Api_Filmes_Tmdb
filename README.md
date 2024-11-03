@@ -21,8 +21,11 @@ A API permite que os usuários consultem informações detalhadas sobre os filme
 ## 🚀 Tecnologias Utilizadas
 
 🔘**ASP.NET Core**: Backend para gerenciar a lógica da API.
+
 🔘**MongoDB**: Armazenamento dos dados de filmes e avaliações de maneira escalável.
+
 🔘**RestSharp**: Biblioteca para consumir dados da API TMDb, facilitando a integração e a obtenção de informações detalhadas sobre filmes, como elenco, trailers e orçamento.
+
 🔘**API TMDb**: Fonte dos dados de filmes, como sinopse, categorias e detalhes adicionais, garantindo acesso a informações atualizadas diretamente da TMDb.
 
 ## 📝 Licença
